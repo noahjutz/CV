@@ -18,7 +18,7 @@
   #v(6pt)
 
   #text(
-    style: "italic",
+    weight: "light",
     "Computer Science Student"
   )
 ]
