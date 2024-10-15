@@ -1,4 +1,5 @@
 #set page(margin: 0pt)
+#set text(font: "Noto Sans")
 
 #let theme = (
   primary: purple,
