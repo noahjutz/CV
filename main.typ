@@ -10,12 +10,16 @@
   block(
     width: 220pt,
     height: 100%,
-    inset: (x: 32pt, y: 32pt),
+    inset: 32pt,
     fill: theme.primary_light,
   )[
     #box(radius: 16pt, clip: true)[
       #image("assets/profile_small.JPG")
     ]
   ],
-  [Hi]
+  block(
+    inset: 32pt
+  )[
+    Hi
+  ]
 )
