@@ -12,14 +12,10 @@
     height: 100%,
     inset: 32pt,
     fill: theme.primary_light,
-  )[
-    #box(radius: 16pt, clip: true)[
-      #image("assets/profile_small.JPG")
-    ]
-  ],
+    include "sidebar.typ"
+  ),
   block(
-    inset: 32pt
-  )[
-    Hi
-  ]
+    inset: 32pt,
+    include "body.typ"
+  )
 )
