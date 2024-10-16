@@ -7,16 +7,16 @@
   hyphenate: true,
 )
 
-#box(
+#block(
   inset: 40pt,
-  stack(
-    dir: ltr,
-    spacing: 32pt,
+  grid(
+    columns: (170pt, auto),
+    column-gutter: 32pt,
     block(
-      width: 170pt,
       include "sidebar/main.typ"
     ),
     block(
+      stroke: black,
       include "body/main.typ"
     )
   )
