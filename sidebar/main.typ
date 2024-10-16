@@ -31,10 +31,7 @@
   )
 )
 
-#social(
+#social(al: top,
   "/assets/icons/location.svg",
-  al: top
-)[
-  Musterstr. 7 \
-  90099 Musterstadt
-]
+  env.address
+)
