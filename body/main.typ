@@ -6,6 +6,6 @@
 
 #lorem(25)
 
-#section("Werdegang")
+#section("Akademischer\nWerdegang")
 
 hi
