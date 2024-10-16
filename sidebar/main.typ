@@ -11,33 +11,26 @@
 
 #social(
   "/assets/icons/call.svg",
-  link(
-    "tel:" + env.phone,
-    env.phone
-  )
+  url: "tel:" + env.phone,
+  env.phone
 )
 
 #social(
   "/assets/icons/mail.svg",
-  link(
-    "mailto:" + env.email
-  )
+  url: "mailto:" + env.email,
+  env.email
 )
 
 #social(
-  "/assets/icons/link.svg",
-  link(
-    "https://noahjutz.com",
-    "noahjutz.com"
-  )
+  "/assets/icons/language.svg",
+  url: "https://noahjutz.com",
+  "noahjutz.com"
 )
 
 #social(
   "/assets/brands/github.svg",
-  link(
-    "https://github.com/noahjutz",
-    "noahjutz"
-  )
+  url: "https://github.com/noahjutz",
+  "noahjutz"
 )
 
 #social(al: top,
