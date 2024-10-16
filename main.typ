@@ -11,7 +11,7 @@
     width: 220pt,
     height: 100%,
     inset: 32pt,
-    fill: theme.primary_light,
+    //fill: theme.primary_light,
     include "sidebar/main.typ"
   ),
   block(
