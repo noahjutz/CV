@@ -23,7 +23,7 @@
   [2022 #sym.dash],
   "OTH Regensburg",
 )[
-  Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 5. Semester.
+  Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 5. Semester meines Informatikstudiums (B. Sc.).
 ]
 #arrow
 
