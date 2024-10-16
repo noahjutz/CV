@@ -6,8 +6,6 @@
 
 #include "title.typ"
 
-#lorem(15)
-
 #section("Akademischer\nWerdegang")
 
 #entry(
@@ -43,6 +41,20 @@
 #project(
   none,
   "GymRoutines",
-  lorem(10),
+  "Workout-Tracker für Android.",
+  none
+)
+
+#project(
+  none,
+  "Algorithmenbuch",
+  "Darstellungen von Algorithmen.",
+  none
+)
+
+#project(
+  none,
+  "Endict",
+  "Englisches Wörterbuch für Android.",
   none
 )
