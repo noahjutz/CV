@@ -1,6 +1,7 @@
 #let project(
-  icon,
   name,
+  icon: none,
+  url: none,
   body,
 ) = grid(
   columns: (auto, 1fr),
