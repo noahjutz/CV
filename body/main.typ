@@ -1,3 +1,3 @@
 #include "title.typ"
 
-#lorem(50)
+#lorem(25)

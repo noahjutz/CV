@@ -6,6 +6,7 @@
   size: 14pt,
   hyphenate: true,
 )
+#set par(justify: true)
 
 #block(
   inset: 40pt,
