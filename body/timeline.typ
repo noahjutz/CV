@@ -30,7 +30,7 @@
           )
           title
         },
-        {
+        if postfix != none {
           v(12pt)
           postfix
         },

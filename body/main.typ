@@ -19,4 +19,9 @@
   "Privat-Gymnasium PINDL",
   none
 )
+#entry(
+  [2022 #sym.dash],
+  "OTH Regensburg",
+  none
+)
 #arrow
