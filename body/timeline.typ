@@ -16,10 +16,10 @@
       inset: (left: 8pt, bottom: 8pt, top: 8pt),
       below: 0pt,
       stack(
-        spacing: 10pt,
         {
           set text(fill: gray)
           prefix
+          v(6pt)
         },
         {
           set text(weight: "black")
@@ -31,8 +31,9 @@
           title
         },
         {
+          v(12pt)
           postfix
-        }
+        },
       )
     )
   )

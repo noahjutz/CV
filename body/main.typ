@@ -15,6 +15,8 @@
   "Alle Unterrichtseinheiten wurden auf Englisch abgehalten."
 )
 #entry(
-  "pre", "title", "post"
+  [2012 #sym.dash 2021],
+  "Privat-Gymnasium PINDL",
+  none
 )
 #arrow
