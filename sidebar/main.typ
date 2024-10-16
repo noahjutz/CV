@@ -51,4 +51,15 @@
 
 #section("Andere Kenntnisse")
 
-#chips("Linux", "LaTeX", "Java", "Git")
+#chips(
+  "Linux",
+  "LaTeX",
+  "Java",
+  "C",
+  "Git",
+  "PostScript",
+  "JavaScript",
+  "Svelte",
+  "MongoDB",
+  "Postgres"
+)
