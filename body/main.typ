@@ -1,5 +1,5 @@
 #import "section.typ": section
-#import "timeline.typ": entry
+#import "timeline.typ": entry, arrow
 
 #set block(below: 24pt)
 
@@ -15,3 +15,4 @@
 #entry(
   "pre", "title", "post"
 )
+#arrow
