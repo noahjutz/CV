@@ -40,7 +40,7 @@
 #section("Portfolio")
 
 #project(
-  none,
+  "/assets/logos/GymRoutines.svg",
   "GymRoutines",
 )[
   Workout-Tracker für Android.
@@ -49,7 +49,7 @@
 ]
 
 #project(
-  none,
+  "/assets/logos/AD.svg",
   "Algorithmenbuch",
 )[
   Darstellungen von Algorithmen.
@@ -58,7 +58,7 @@
 ]
 
 #project(
-  none,
+  "/assets/logos/Endict.svg",
   "Endict",
 )[
   Englisches Wörterbuch für Android.
