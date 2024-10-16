@@ -42,5 +42,9 @@
 #let arrow = cetz.canvas({
   import cetz.draw: *
   circle((), radius: 0)
-  line((4pt, 0), (4pt, -16pt), mark: (end: "straight"))
+  line(
+    (4pt, 0),
+    (4pt, -16pt),
+    mark: (end: "straight", scale: 1.5)
+  )
 })
