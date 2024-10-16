@@ -52,7 +52,6 @@
 #langskill("Englisch", "C2")
 #langskill("Spanisch", "B1")
 #langskill("Arabisch", "A2")
-#langskill("Französisch", "A1")
 
 #v(16pt)
 
@@ -61,3 +60,4 @@
 - Immatrikulationsbescheinigung
 - Notenbestätigung
 - Abiturzeugnis
+- Praktikumsbescheinigung
