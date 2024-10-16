@@ -7,7 +7,7 @@
 
 #include "title.typ"
 
-#section("Akademischer\nWerdegang")
+#section("Akademischer Werdegang")
 
 #entry(
   [2010 #sym.dash 2012],
