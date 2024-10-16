@@ -45,7 +45,7 @@
   url: "codeberg.org/noahjutz/GymRoutines"
 )[
   Workout-Tracker für Android.
-  #chips("Android", "Kotlin")
+  #chips("Android", "Kotlin", "Jetpack")
 ]
 
 #project(
@@ -54,7 +54,7 @@
   url: "github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
-  #chips("Typst", "Python")
+  #chips("Typst", "Python", "CI/CD")
 ]
 
 #project(
@@ -63,5 +63,5 @@
   url: "codeberg.org/noahjutz/Endict"
 )[
   Englisches Wörterbuch für Android.
-  #chips("SQLite")
+  #chips("SQLite", "JSON", "XML")
 ]
