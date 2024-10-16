@@ -1,5 +1,6 @@
 #import "section.typ": section
 #import "social.typ": social
+#import "langskill.typ": langskill
 #import "/env.typ"
 
 #box(radius: 16pt, clip: true)[
@@ -47,21 +48,8 @@
 #v(16pt)
 #section("Sprachkenntnisse")
 
-#align(
-  horizon,
-  stack(
-    dir: ltr,
-    spacing: 1fr,
-    "Englisch",
-    stack(
-      dir: ltr,
-      spacing: 3pt,
-      circle(radius: 2pt, stroke: none, fill: gray),
-      circle(radius: 2pt, stroke: none, fill: gray),
-      circle(radius: 2pt, stroke: none, fill: gray),
-      circle(radius: 2pt, stroke: none, fill: gray),
-      text(font: "Noto Sans Mono", "C1"),
-      circle(radius: 2pt, stroke: none, fill: gray),
-    )
-  )
-)
+#langskill("Deutsch", "C2")
+#langskill("Englisch", "C2")
+#langskill("Spanisch", "B1")
+#langskill("Arabisch", "A2")
+#langskill("Französisch", "A1")
