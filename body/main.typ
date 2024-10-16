@@ -42,26 +42,26 @@
 #project(
   "GymRoutines",
   icon: "/assets/logos/GymRoutines.svg",
+  url: "https://f-droid.org/packages/com.noahjutz.gymroutines/"
 )[
   Workout-Tracker für Android.
-
   #chips("Android", "Kotlin")
 ]
 
 #project(
   "Algorithmenheft",
   icon: "/assets/logos/AD.svg",
+  url: "https://github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
-
   #chips("Typst", "Python")
 ]
 
 #project(
   "Endict",
   icon: "/assets/logos/Endict.svg",
+  url: "https://codeberg.org/noahjutz/Endict"
 )[
   Englisches Wörterbuch für Android.
-
   #chips("SQLite")
 ]
