@@ -1,9 +1,11 @@
 #import "/theme.typ": theme
 
 #set page(margin: 0pt)
-#set text(font: "Noto Sans", size: 14pt)
-
-
+#set text(
+  font: "Noto Sans",
+  size: 14pt,
+  hyphenate: true,
+)
 
 #box(
   inset: 40pt,
