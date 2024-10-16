@@ -9,7 +9,7 @@
 #set par(justify: true)
 
 #block(
-  inset: 40pt,
+  inset: (right: 60pt, left: 40pt, y: 40pt),
   grid(
     columns: (170pt, auto),
     column-gutter: 32pt,
