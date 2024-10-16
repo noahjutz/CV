@@ -6,6 +6,9 @@
   inset: 0pt,
   stroke: none,
   line(length: 100%),
-  table.cell(inset: (x: 4pt), title),
+  table.cell(
+    inset: (x: 4pt),
+    text(font: "Roboto Slab", title)
+  ),
   line(length: 100%),
 )

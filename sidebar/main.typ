@@ -43,3 +43,6 @@
   "/assets/icons/location.svg",
   env.address
 )
+
+#v(16pt)
+#section("Sprachkenntnisse")
