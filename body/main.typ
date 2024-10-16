@@ -49,7 +49,7 @@
 ]
 
 #project(
-  "Algorithmenheft",
+  "Algorithmen & Datenstrukturen",
   icon: "/assets/logos/AD.svg",
   url: "github.com/noahjutz/AD"
 )[
