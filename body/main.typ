@@ -12,7 +12,9 @@
 #entry(
   [2010 #sym.dash 2012],
   "Regensburg International School",
-  "Alle Unterrichtseinheiten wurden auf Englisch abgehalten."
+  [
+    Alle Unterrichtseinheiten wurden auf Englisch abgehalten.
+  ]
 )
 #entry(
   [2012 #sym.dash 2021],
@@ -22,6 +24,8 @@
 #entry(
   [2022 #sym.dash],
   "OTH Regensburg",
-  none
+  [
+    Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 5. Semester.
+  ]
 )
 #arrow
