@@ -1,7 +1,7 @@
 #import "section.typ": section
 #import "timeline.typ": entry, arrow
 
-#set block(below: 24pt)
+#set block(below: 20pt)
 
 #include "title.typ"
 
@@ -12,20 +12,28 @@
 #entry(
   [2010 #sym.dash 2012],
   "Regensburg International School",
-)[
-  Alle Unterrichtseinheiten wurden auf Englisch abgehalten.
-]
+  none
+)
 #entry(
   [2012 #sym.dash 2021],
   "Privat-Gymnasium PINDL",
-)[
-  Abitur mit 2.7 abgeschlossen.
-]
+  none
+)
 #entry(
   [2022 #sym.dash],
   "OTH Regensburg",
 )[
   Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 5. Semester.
+]
+#arrow
+
+#section("Berufserfahrung")
+
+#entry(
+  [2018],
+  "ZMT Automotive"
+)[
+  4-Tägiges Praktikum als Feinwerkmechaniker in Bruck i. d. Opf.
 ]
 #arrow
 
