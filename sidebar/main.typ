@@ -31,6 +31,14 @@
   )
 )
 
+#social(
+  "/assets/brands/github.svg",
+  link(
+    "https://github.com/noahjutz",
+    "noahjutz"
+  )
+)
+
 #social(al: top,
   "/assets/icons/location.svg",
   env.address
