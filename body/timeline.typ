@@ -17,7 +17,7 @@
       below: 0pt,
       stack(
         {
-          set text(fill: gray)
+          set text(fill: gray, size: 12pt)
           prefix
           v(6pt)
         },
