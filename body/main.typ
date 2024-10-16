@@ -1,5 +1,6 @@
 #import "section.typ": section
 #import "timeline.typ": entry, arrow
+#import "project.typ": project
 
 #set block(below: 20pt)
 
@@ -38,3 +39,10 @@
 #arrow
 
 #section("Portfolio")
+
+#project(
+  none,
+  "GymRoutines",
+  lorem(10),
+  none
+)
