@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="24pt"
+   height="20pt"
    id="svg1719"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
-   sodipodi:docname="endict.svg"
+   sodipodi:docname="Endict.svg"
    version="1.1"
-   viewBox="0 0 23.999999 23.999998"
-   width="24pt"
+   viewBox="0 0 19.999999 19.999998"
+   width="20pt"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -216,9 +216,9 @@
      bordercolor="#666666"
      borderopacity="1.0"
      id="base"
-     inkscape:current-layer="layer3"
-     inkscape:cx="15.979823"
-     inkscape:cy="16"
+     inkscape:current-layer="layer1"
+     inkscape:cx="13.333333"
+     inkscape:cy="13.314176"
      inkscape:document-rotation="0"
      inkscape:document-units="pt"
      inkscape:lockguides="false"
@@ -231,7 +231,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:zoom="24.78125"
+     inkscape:zoom="26.1"
      pagecolor="#ffffff"
      scale-x="1"
      showgrid="true"
@@ -278,9 +278,8 @@
      style="display:inline">
     <path
        id="path9056"
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 4,5.3339844 c -1.3333333,0 -1.3339844,1.3320312 -1.3339844,1.3320312 V 22.666016 C 2.6660156,23.999349 4,24 4,24 H 5.3339844 C 5.3339844,24 16,23.999349 16,26.666016 16,23.999349 26.666016,24 26.666016,24 H 28 c 1.333335,0 1.333984,-1.333984 1.333984,-1.333984 V 6.6660156 C 29.333984,5.3326823 28,5.3339844 28,5.3339844 H 26.666016 C 26.666016,5.3339844 16,5.3333335 16,8 16,5.3333335 5.3339844,5.3339844 5.3339844,5.3339844 Z M 5.3339844,8 C 5.3339844,8 15.994715,8.0013306 16,10.666016 16,7.9993487 26.666016,8 26.666016,8 v 2.666016 c 0,0 -10.666016,0.0013 -10.666016,2.667968 V 16 c 0,-2.666667 10.666016,-2.666016 10.666016,-2.666016 V 16 C 26.666016,16 16,15.999348 16,18.666016 v 2.667968 c 0,-2.666666 10.666016,-2.667968 10.666016,-2.667968 v 2.667968 C 26.666016,21.333984 16,21.333333 16,24 16,21.333333 5.3339844,21.333984 5.3339844,21.333984 Z"
-       transform="scale(0.75)" />
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 1,2.0004883 C 2.5e-8,2.0004883 -4.883e-4,2.9995117 -4.883e-4,2.9995117 V 14.999512 C -4.883e-4,15.999512 1,16 1,16 H 2.0004883 C 2.0004883,16 10,15.999512 10,17.999512 10,15.999512 17.999512,16 17.999512,16 H 19 c 1.000001,0 1.000488,-1.000488 1.000488,-1.000488 V 2.9995117 C 20.000488,1.9995117 19,2.0004883 19,2.0004883 H 17.999512 C 17.999512,2.0004883 10,2.0000001 10,4 10,2.0000001 2.0004883,2.0004883 2.0004883,2.0004883 Z M 2.0004883,4 C 2.0004883,4 9.9960362,4.0009979 10,5.999512 10,3.9995115 17.999512,4 17.999512,4 v 1.999512 c 0,0 -7.999512,9.75e-4 -7.999512,2.000976 V 10 C 10,7.9999997 17.999512,8.000488 17.999512,8.000488 V 10 C 17.999512,10 10,9.999511 10,11.999512 v 2.000976 c 0,-2 7.999512,-2.000976 7.999512,-2.000976 v 2.000976 C 17.999512,14.000488 10,14 10,16 10,14 2.0004883,14.000488 2.0004883,14.000488 Z" />
   </g>
   <g
      inkscape:groupmode="layer"

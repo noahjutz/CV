@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   height="24pt"
+   height="18pt"
    id="svg1719"
    inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
    sodipodi:docname="GymRoutines.svg"
    version="1.1"
-   viewBox="0 0 23.999999 23.999998"
-   width="24pt"
+   viewBox="0 0 17.999999 17.999998"
+   width="18pt"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -217,8 +217,8 @@
      borderopacity="1.0"
      id="base"
      inkscape:current-layer="layer2"
-     inkscape:cx="15.979823"
-     inkscape:cy="16"
+     inkscape:cx="12.574824"
+     inkscape:cy="17.988984"
      inkscape:document-rotation="0"
      inkscape:document-units="pt"
      inkscape:lockguides="false"
@@ -231,7 +231,7 @@
      inkscape:window-width="1920"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:zoom="24.78125"
+     inkscape:zoom="20.040042"
      pagecolor="#ffffff"
      scale-x="1"
      showgrid="true"
@@ -354,12 +354,11 @@
      style="display:inline">
     <path
        id="rect1624"
-       style="fill:#000000;fill-opacity:1;stroke-width:2.66667;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
-       d="M 16,4 C 9.3520004,4 4,9.3520004 4,16 h 2.6660156 c 0,-5.170668 4.1633164,-9.3339844 9.3339844,-9.3339844 1.61116,0 3.125243,0.4042158 4.445312,1.1171875 L 22.386719,5.8417969 C 20.538065,4.6803238 18.353416,4 16,4 Z M 26.158203,9.6132812 24.216797,11.554688 C 24.929769,12.874757 25.333984,14.38884 25.333984,16 H 28 c 0,-2.353416 -0.680324,-4.538065 -1.841797,-6.3867188 z"
-       transform="scale(0.75)" />
+       style="fill:#000000;fill-opacity:1;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       d="M 9,0 C 4.0140003,0 0,4.0140003 0,9 H 1.9995117 C 1.9995117,5.121999 5.121999,1.9995117 9,1.9995117 c 1.20837,0 2.343932,0.3031618 3.333984,0.8378906 L 13.790039,1.3813477 C 12.403549,0.5102428 10.765062,0 9,0 Z M 16.618652,4.2099609 15.162598,5.666016 C 15.697327,6.6560677 16.000488,7.79163 16.000488,9 H 18 C 18,7.234938 17.489757,5.5964512 16.618652,4.2099609 Z" />
     <path
        style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 8.9999995,8.9999995 11.999998,11.999998 19.999999,3.9999998"
+       d="M 5.9999995,5.9999995 8.999998,8.999998 16.999999,0.9999998"
        id="path1607"
        sodipodi:nodetypes="ccc" />
   </g>
@@ -370,7 +369,8 @@
      style="display:inline">
     <g
        id="g758"
-       style="fill:#000000;fill-opacity:1">
+       style="fill:#000000;fill-opacity:1"
+       transform="translate(-3,-3)">
       <path
          id="rect648"
          style="fill:#000000;fill-opacity:1;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -382,7 +382,7 @@
        id="rect1745"
        width="9.999999"
        height="1.9999999"
-       x="6.999999"
-       y="16" />
+       x="3.999999"
+       y="13" />
   </g>
 </svg>
