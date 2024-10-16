@@ -16,7 +16,6 @@
       include "sidebar/main.typ"
     ),
     block(
-      stroke: black,
       include "body/main.typ"
     )
   )
