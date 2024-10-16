@@ -10,7 +10,9 @@
 #section("Akademischer\nWerdegang")
 
 #entry(
-  "pre", "title", "post"
+  [2010 #sym.dash 2012],
+  "Regensburg International School",
+  "Alle Unterrichtseinheiten wurden auf Englisch abgehalten."
 )
 #entry(
   "pre", "title", "post"

@@ -16,9 +16,13 @@
       inset: (left: 8pt, bottom: 8pt, top: 8pt),
       below: 0pt,
       stack(
-        spacing: 8pt,
-        prefix,
+        spacing: 10pt,
         {
+          set text(fill: gray)
+          prefix
+        },
+        {
+          set text(weight: "black")
           place(
             horizon,
             dx: -12pt,
@@ -26,7 +30,9 @@
           )
           title
         },
-        postfix
+        {
+          postfix
+        }
       )
     )
   )
