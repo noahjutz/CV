@@ -1,6 +1,7 @@
 #import "section.typ": section
 #import "timeline.typ": entry, arrow
 #import "project.typ": project
+#import "chip.typ": chips
 
 #set block(below: 20pt)
 
@@ -43,6 +44,8 @@
   "GymRoutines",
 )[
   Workout-Tracker für Android.
+
+  #chips("Android", "Kotlin")
 ]
 
 #project(
@@ -50,6 +53,8 @@
   "Algorithmenbuch",
 )[
   Darstellungen von Algorithmen.
+
+  #chips("Typst")
 ]
 
 #project(
