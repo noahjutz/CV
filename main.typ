@@ -5,17 +5,17 @@
 
 
 
-#stack(
-  dir: ltr,
-  block(
-    width: 220pt,
-    height: 100%,
-    inset: 32pt,
-    //fill: theme.primary_light,
-    include "sidebar/main.typ"
-  ),
-  block(
-    inset: 32pt,
-    include "body/main.typ"
+#box(
+  inset: 40pt,
+  stack(
+    dir: ltr,
+    spacing: 32pt,
+    block(
+      width: 170pt,
+      include "sidebar/main.typ"
+    ),
+    block(
+      include "body/main.typ"
+    )
   )
 )
