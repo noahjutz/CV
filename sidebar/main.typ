@@ -46,3 +46,22 @@
 
 #v(16pt)
 #section("Sprachkenntnisse")
+
+#align(
+  horizon,
+  stack(
+    dir: ltr,
+    spacing: 1fr,
+    "Englisch",
+    stack(
+      dir: ltr,
+      spacing: 3pt,
+      circle(radius: 2pt, stroke: none, fill: gray),
+      circle(radius: 2pt, stroke: none, fill: gray),
+      circle(radius: 2pt, stroke: none, fill: gray),
+      circle(radius: 2pt, stroke: none, fill: gray),
+      text(font: "Noto Sans Mono", "C1"),
+      circle(radius: 2pt, stroke: none, fill: gray),
+    )
+  )
+)
