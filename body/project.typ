@@ -1,8 +1,7 @@
 #let project(
   icon,
   name,
-  description,
-  labels
+  body,
 ) = grid(
   columns: (auto, 1fr),
   column-gutter: 12pt,
@@ -11,6 +10,6 @@
     #set block(below: 12pt)
     #text(weight: "black", name)
 
-    #description
+    #body
   ]
 )

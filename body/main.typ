@@ -41,20 +41,20 @@
 #project(
   none,
   "GymRoutines",
-  "Workout-Tracker für Android.",
-  none
-)
+)[
+  Workout-Tracker für Android.
+]
 
 #project(
   none,
   "Algorithmenbuch",
-  "Darstellungen von Algorithmen.",
-  none
-)
+)[
+  Darstellungen von Algorithmen.
+]
 
 #project(
   none,
   "Endict",
-  "Englisches Wörterbuch für Android.",
-  none
-)
+)[
+  Englisches Wörterbuch für Android.
+]
