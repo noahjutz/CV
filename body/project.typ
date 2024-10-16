@@ -4,15 +4,15 @@
   url: none,
   body,
 ) = {
-  set block(below: 12pt)
   grid(
     columns: (auto, 1fr),
     column-gutter: 12pt,
     row-gutter: 8pt,
     [],
-    text(fill: gray)[URL goes here],
+    text(fill: gray, size: 12pt)[#url],
     if icon != none {image(icon, width: 40pt)} else {[]},
     {
+      set block(below: 8pt)
       text(weight: "black", name)
       linebreak()
       body
