@@ -27,13 +27,13 @@
 ]
 #arrow
 
-#section("Berufserfahrung")
+#section("Praktika")
 
 #entry(
   [2018],
   "ZMT Automotive"
 )[
-  4-Tägiges Praktikum als Feinwerkmechaniker in Bruck i. d. Opf.
+  Praktikum als Feinwerkmechaniker
 ]
 #arrow
 
@@ -54,7 +54,7 @@
 )[
   Darstellungen von Algorithmen.
 
-  #chips("Typst")
+  #chips("Typst", "Python")
 ]
 
 #project(
@@ -62,4 +62,6 @@
   "Endict",
 )[
   Englisches Wörterbuch für Android.
+
+  #chips("SQLite")
 ]
