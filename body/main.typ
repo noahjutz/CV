@@ -1,7 +1,7 @@
 #import "section.typ": section
 #import "timeline.typ": entry, arrow
 #import "project.typ": project
-#import "chip.typ": chips
+#import "/chip.typ": chips
 
 #set block(below: 20pt)
 
@@ -45,6 +45,7 @@
   url: "codeberg.org/noahjutz/GymRoutines"
 )[
   Workout-Tracker für Android.
+
   #chips("Android", "Kotlin", "Jetpack")
 ]
 
@@ -54,6 +55,7 @@
   url: "github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
+
   #chips("Typst", "Python", "CI/CD")
 ]
 
@@ -63,5 +65,6 @@
   url: "codeberg.org/noahjutz/Endict"
 )[
   Englisches Wörterbuch für Android.
+
   #chips("SQLite", "JSON", "XML")
 ]

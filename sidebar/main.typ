@@ -1,6 +1,7 @@
 #import "section.typ": section
 #import "social.typ": social
 #import "langskill.typ": langskill
+#import "/chip.typ": chips
 #import "/env.typ"
 
 #box(radius: 16pt, clip: true)[
@@ -48,9 +49,6 @@
 
 #v(16pt)
 
-#section("Anlagen")
+#section("Andere Kenntnisse")
 
-- Immatrikulationsbescheinigung
-- Notenbestätigung
-- Abiturzeugnis
-- Praktikumsbescheinigung
+#chips("Linux", "LaTeX", "Java", "Git")
