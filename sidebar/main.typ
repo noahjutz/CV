@@ -8,5 +8,25 @@
 
 #section("Kontakt")
 
-#social("/assets/icons/call.svg")[#env.phone]
-#social("/assets/icons/mail.svg")[#env.email]
+#social(
+  "/assets/icons/call.svg",
+  link(
+    "tel:" + env.phone,
+    env.phone
+  )
+)
+
+#social(
+  "/assets/icons/mail.svg",
+  link(
+    "mailto:" + env.email
+  )
+)
+
+#social(
+  "/assets/icons/link.svg",
+  link(
+    "https://noahjutz.com",
+    "noahjutz.com"
+  )
+)
