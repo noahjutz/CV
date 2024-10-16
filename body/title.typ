@@ -1,4 +1,3 @@
-#set block(below: 0pt)
 #par(
   leading: 12pt
 )[
@@ -6,6 +5,7 @@
     size: 48pt,
     font: "Roboto Slab"
   )[
+    #set block(below: 0pt)
     #text(
       weight: "black",
       "Noah"
@@ -21,6 +21,4 @@
     weight: "light",
     "Computer Science Student"
   )
-
-  #v(16pt)
 ]
