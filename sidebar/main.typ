@@ -30,3 +30,11 @@
     "noahjutz.com"
   )
 )
+
+#social(
+  "/assets/icons/location.svg",
+  al: top
+)[
+  Musterstr. 7 \
+  90099 Musterstadt
+]
