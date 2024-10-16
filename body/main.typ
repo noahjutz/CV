@@ -1,4 +1,5 @@
 #import "section.typ": section
+#import "timeline.typ": entry
 
 #set block(below: 24pt)
 
@@ -8,4 +9,9 @@
 
 #section("Akademischer\nWerdegang")
 
-hi
+#entry(
+  "pre", "title", "post"
+)
+#entry(
+  "pre", "title", "post"
+)
