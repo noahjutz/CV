@@ -53,13 +53,13 @@
 
 #chips(
   "Linux",
-  "LaTeX",
+  "Git",
   "Java",
   "C",
-  "Git",
-  "PostScript",
   "JavaScript",
+  "PostScript",
   "Svelte",
+  "Postgres",
   "MongoDB",
-  "Postgres"
+  "LaTeX",
 )
