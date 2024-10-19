@@ -10,6 +10,11 @@
 
 #section("Kontakt")
 
+#social(al: top,
+  "/assets/icons/location.svg",
+  env.address
+)
+
 #social(
   "/assets/icons/call.svg",
   url: "tel:" + env.phone,
@@ -32,11 +37,6 @@
   "/assets/brands/github.svg",
   url: "https://github.com/noahjutz",
   "noahjutz"
-)
-
-#social(al: top,
-  "/assets/icons/location.svg",
-  env.address
 )
 
 #v(16pt)

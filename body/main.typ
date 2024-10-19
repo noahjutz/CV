@@ -37,7 +37,7 @@
 ]
 #arrow
 
-#section("Portfolio")
+#section("Projekte")
 
 #project(
   "GymRoutines",
