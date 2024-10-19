@@ -14,7 +14,7 @@
       size: 12pt,
       link("https://" + url, url)
     ),
-    if icon != none {image(icon, width: 32pt)} else {[]},
+    if icon != none {image(icon, width: 24pt)} else {[]},
     {
       set block(below: 8pt)
       text(weight: "black", name)
