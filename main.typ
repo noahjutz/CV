@@ -1,19 +1,22 @@
 #import "/theme.typ": theme
 
-#set page(margin: (left: 70pt, right: 80pt, y: 50pt))
+#set page(margin: 0pt)
 #set text(
   font: "Noto Sans",
-  size: 11pt,
+  size: 14pt,
   hyphenate: true,
 )
 
-#grid(
-  columns: (170pt, auto),
-  column-gutter: 32pt,
-  block(
-    include "sidebar/main.typ"
-  ),
-  block(
-    include "body/main.typ"
+#block(
+  inset: (right: 60pt, left: 40pt, y: 40pt),
+  grid(
+    columns: (170pt, auto),
+    column-gutter: 32pt,
+    block(
+      include "sidebar/main.typ"
+    ),
+    block(
+      include "body/main.typ"
+    )
   )
 )
