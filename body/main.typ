@@ -3,7 +3,7 @@
 #import "project.typ": project
 #import "/chip.typ": chips
 
-#set block(below: 20pt)
+#set block(below: 16pt, above: 0pt)
 
 #include "title.typ"
 
@@ -23,7 +23,7 @@
   [2022 #sym.dash],
   "OTH Regensburg",
 )[
-  Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 5. Semester meines Informatikstudiums (B. Sc.).
+  Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 6. Semester meines Informatikstudiums (B. Sc.).
 ]
 #arrow
 
