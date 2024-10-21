@@ -28,12 +28,6 @@
 )
 
 #social(
-  "/assets/icons/language.svg",
-  url: "https://noahjutz.com",
-  "noahjutz.com"
-)
-
-#social(
   "/assets/brands/github.svg",
   url: "https://github.com/noahjutz",
   "noahjutz"
@@ -52,6 +46,8 @@
 #section("Andere Kenntnisse")
 
 #chips(
+  "Kotlin",
+  "Python",
   "Linux",
   "Git",
   "Java",
