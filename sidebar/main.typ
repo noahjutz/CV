@@ -46,16 +46,12 @@
 #section("Andere Kenntnisse")
 
 #chips(
-  "Kotlin",
-  "Python",
   "Linux",
   "Git",
   "Java",
   "C",
   "JavaScript",
   "PostScript",
-  "Svelte",
   "Postgres",
-  "MongoDB",
   "LaTeX",
 )
