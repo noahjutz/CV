@@ -51,7 +51,7 @@
 
 #project(
   "Algorithmen & Datenstrukturen",
-  icon: "/assets/logos/AD.svg",
+  icon: "/assets/logos/AD2.svg",
   url: "github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
@@ -60,11 +60,11 @@
 ]
 
 #project(
-  "Endict",
-  icon: "/assets/logos/Endict.svg",
-  url: "codeberg.org/noahjutz/Endict"
+  "Rally",
+  icon: "/assets/logos/Rally.svg",
+  url: "github.com/noahjutz/rally-frontend"
 )[
-  Englisches Wörterbuch für Android.
+  Full-Stack Web App.
 
-  #chips("SQLite", "JSON", "XML")
+  #chips("TypeScript", "Svelte", "MongoDB")
 ]
