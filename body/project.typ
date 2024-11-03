@@ -16,7 +16,6 @@
     ),
     if icon != none {image(icon, width: 24pt)} else {[]},
     {
-      set block(below: 8pt)
       text(weight: "black", name)
       linebreak()
       body

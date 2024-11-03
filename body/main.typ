@@ -45,7 +45,7 @@
   url: "codeberg.org/noahjutz/GymRoutines"
 )[
   Workout-Tracker für Android.
-
+  #linebreak()
   #chips("Android", "Kotlin", "Jetpack")
 ]
 
@@ -55,7 +55,7 @@
   url: "github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
-
+  #linebreak()
   #chips("Typst", "Python", "CI/CD")
 ]
 
@@ -65,6 +65,6 @@
   url: "github.com/noahjutz/rally-frontend"
 )[
   Full-Stack Web App.
-
-  #chips("TypeScript", "Svelte", "MongoDB")
+  #linebreak()
+  #chips("TypeScript", "Svelte", "MongoDB", "Hapi", "TDD", "REST API", "Vite")
 ]
