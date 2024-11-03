@@ -51,7 +51,7 @@
 
 #project(
   "Algorithmen & Datenstrukturen",
-  icon: "/assets/logos/AD2.svg",
+  icon: "/assets/logos/AD.svg",
   url: "github.com/noahjutz/AD"
 )[
   Darstellungen von Algorithmen.
