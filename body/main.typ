@@ -50,7 +50,7 @@
 ]
 
 #project(
-  "Algorithmen & Datenstrukturen",
+  "Khawarizmia",
   icon: "/assets/logos/AD.svg",
   url: "github.com/noahjutz/AD"
 )[
