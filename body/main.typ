@@ -27,7 +27,7 @@
 ]
 #arrow
 
-#section("Praktika")
+#section("Beruflicher Werdegang")
 
 #entry(
   [2018],
@@ -37,7 +37,7 @@
 ]
 #arrow
 
-#section("Projekte")
+#section("Private Projekte")
 
 #project(
   "GymRoutines",

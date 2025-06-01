@@ -3,7 +3,7 @@
 #set page(margin: 0pt)
 #set text(
   font: "Noto Sans",
-  size: 14pt,
+  size: 11pt,
   hyphenate: true,
 )
 
