@@ -3,7 +3,7 @@
 #let _stroke = 1pt
 #let _fill = black
 
-#let entry(
+#let _entry(
   prefix,
   title,
   postfix
@@ -39,7 +39,7 @@
   )
 }
 
-#let arrow = cetz.canvas({
+#let _arrow = cetz.canvas({
   import cetz.draw: *
   circle((), radius: 0)
   line(
@@ -48,3 +48,23 @@
     mark: (end: "straight", scale: 1.5)
   )
 })
+
+#let timeline(entries) = {
+  //for entry in entries.values() {
+  //  entry
+  //}
+  for e in entries.values() {
+    _entry(
+      box({
+        str(e.at("from", default: ""))
+        sym.space
+        sym.dash
+        sym.space
+        str(e.at("to", default: ""))
+      }),
+      e.name,
+      e.at("description", default: none)
+    )
+  }
+  _arrow
+}

@@ -1,6 +1,5 @@
 #import "/theme.typ": theme
 
-#set page(margin: 0pt)
 #set text(
   font: "Noto Sans",
   size: 11pt,
@@ -8,9 +7,8 @@
 )
 
 #block(
-  inset: (right: 60pt, left: 40pt, y: 40pt),
   grid(
-    columns: (170pt, auto),
+    columns: (150pt, auto),
     column-gutter: 32pt,
     block(
       include "sidebar/main.typ"

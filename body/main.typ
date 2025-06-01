@@ -1,41 +1,18 @@
 #import "section.typ": section
-#import "timeline.typ": entry, arrow
+#import "timeline.typ": timeline
 #import "project.typ": project
 #import "/chip.typ": chips
+#import "/env.typ"
 
 #set block(below: 16pt, above: 0pt)
 
 #include "title.typ"
 
 #section("Akademischer Werdegang")
-
-#entry(
-  [2010 #sym.dash 2012],
-  "Regensburg International School",
-  none
-)
-#entry(
-  [2012 #sym.dash 2021],
-  "Privat-Gymnasium PINDL",
-  none
-)
-#entry(
-  [2022 #sym.dash],
-  "OTH Regensburg",
-)[
-  Aktuell mit 103 ECTS und einer Durchschnittsnote von 2.3 im 6. Semester meines Informatikstudiums (B. Sc.).
-]
-#arrow
+#timeline(env.studies)
 
 #section("Beruflicher Werdegang")
-
-#entry(
-  [2018],
-  "ZMT Automotive"
-)[
-  Praktikum als Feinwerkmechaniker
-]
-#arrow
+#timeline(env.work)
 
 #section("Private Projekte")
 
